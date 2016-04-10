@@ -1,6 +1,6 @@
 # Reinstalling Packages and its Pitfalls
 
-Reinstalling a package is a simple act of uninstalling a package and installing back the same version of the package that was uninstalled. The 2 steps involved are nicely bundled up in the –reinstall switch of the Update-Package command as shown below. But, it is ESSENTIAL that one understands the changes this single command can bring to a project before using it. Please note that this doc will be updated in the near future to cover more scenarios
+Reinstalling a package is a simple act of uninstalling a package and installing back the same version of the package that was uninstalled. The 2 steps involved are nicely bundled up in the –reinstall switch of the Update-Package command as shown below. But, it is ESSENTIAL that one understands the changes this single command can bring to a project before using it. 
 
 	Update-Package –reinstall <packageName>
 
